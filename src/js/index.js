@@ -64,11 +64,11 @@ window.onload = function() {
     github: "alesanchezr",
     linkedin: null,
     instagram: null,
-    name: null,
-    lastname: null,
-    role: null,
-    country: null,
-    city: null
+    name: "Your name",
+    lastname: "Your lastname",
+    role: "Role",
+    country: "Country",
+    city: "City"
   };
   render(window.variables); //render the card for the first time
 
